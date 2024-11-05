@@ -13,15 +13,15 @@ NotaVox is an AI-powered Natural Language Processing (NLP) project designed to c
 
 ### Installation
 Clone this repo and install dependencies:
-'''
+```
 git clone https://github.com/owbhu/NotaVox.git
 cd NotaVox
 pip install -r requirements.txt
-'''
+```
 Download language models:
-'''
+```
 placeholder for language models
-''''
+```
 
 
 ## Contact
